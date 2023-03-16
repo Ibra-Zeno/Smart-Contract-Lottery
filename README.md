@@ -20,7 +20,7 @@ To get started with this project, you'll need to have Python, Brownie, Infura, a
 
 bash
 
-`git clone https://github.com/username/smart-contract-lottery.git		`
+`git clone https://github.com/ibra-zeno/smart-contract-lottery.git		`
 `cd smart-contract-lottery	`
 `brownie run deploy --network goerli` 
 
